@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size: 70px;
+	font-family: "antic-didone";
+	color: #D4AF34;
+}
+header{
+	background-color: #FFFFFF;
+	font-size: 100px;
+	
+	
+}
+#hero{
+	background-image: url(../img/post_bg.jpg);
+	background-size: cover;
+	text-align: center
+}
+#hero h4{
+	text-align: center;
+	padding-top: 100px;
+	font-size: 17px;
+}
+.btn-gold{
+	padding: 8px 40px;
+	border-radius: 35px;
+	color: #D4AF34;
+	font-size: 14px;
+	text-transform: uppercase;
+	background-color: transparent;
+	border: 1px solid #D4AF34;
+	}
+#servicios{
+	background-image: url(../img/post_bg.jpg);
+text-align: center;
+	font-size:17px;
+}
+#servicios h4{
+text-align: center;
+font-size:17px;
+	padding-top: 50px;
+}
+#portafolio{
+	text-align: center;
+background-image: url(../img/post_bg.jpg);
+}
+
+footer{
+	background-color: #262626;
+	color: #D4AF34;
+	padding: 20px 0;
+	text-align: center;
+	font-size:14px;
+}
+#content{
+	font-size:17px;
+	background-image: url(../img/post_bg.jpg)
+}
